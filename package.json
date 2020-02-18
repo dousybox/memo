@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "name": "memo",
+  "author": "dousy",
+  "scripts": {
+    "docs:dev": "vuepress dev .",
+    "docs:build": "vuepress build ."
+  },
+  "devDependencies": {
+    "vuepress": "^1.3.0"
+  }
+}
